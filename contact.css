@@ -1,0 +1,28 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+body{
+    color:rgb(24, 27, 27);
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(ss.webp);
+    background-size: cover;
+    height: 100vh ;
+}    
+.singlecol{ 
+    margin:0 auto;
+
+}
+  social-media-icons-white a {
+    color:rgb(238, 223, 223);
+    font-size: 2rem;
+     
+
+  }
+  .singlecol{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
